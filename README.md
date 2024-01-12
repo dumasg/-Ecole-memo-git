@@ -14,3 +14,4 @@ mkdir => Créer un dossier
 - git checkout => permet de changer de branch ou de revenir en arrière via l'id du commit
 - git switch - => permet de revenir au dernier commit
 - git push origin tag => permet de push les modifications avec un tag
+- git test
